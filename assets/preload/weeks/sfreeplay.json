@@ -1,0 +1,75 @@
+{
+	"storyName": "freeplay",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": true,
+	"weekCharacters": [
+		"",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"enemy-beaker",
+			"morde",
+			[
+				155,
+				80,
+				173
+			]
+		],
+		[
+			"cookies",
+			"rigbycomic",
+			[
+				155,
+				80,
+				173
+			]
+		],
+		[
+			"overtime",
+			"gene",
+			[
+				106,
+				133,
+				73
+			]
+		],
+		[
+			"full-fives",
+			"high",
+			[
+				106,
+				133,
+				73
+			]
+		],
+		[
+			"new-management",
+			"benson",
+			[
+				106,
+				133,
+				73
+			]
+		],
+		[
+			"summertime",
+			"rigby",
+			[
+				186,
+				140,
+				73
+			]
+		]
+	],
+	"weekName": "freeplay"
+}
